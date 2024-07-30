@@ -1,0 +1,80 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.section {
+    padding: 60px 0;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 2.5em;
+}
+
+.profile-photo {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.about-image {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+}
+
+.grid-item {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.skills-container .skill {
+    margin-bottom: 20px;
+}
+
+.progress-bar {
+    background-color: #195885;
+}
+
+#services {
+    background-color: #195885;
+    color: #ffffff;
+}
+.services-grid .service-item {
+    margin-bottom: 20px;
+}
+
+.service-icon {
+    color: #e9f50b;
+    margin-bottom: 10px;
+}
+
+.project-card,
+.formation-card {
+    margin-bottom: 20px;
+}
+
+#formations {
+    background-color: #195885;
+}
+
+.section-title {
+    color: #080101;
+    font-weight: 700;
+}
+.footer {
+    padding: 20px 0;
+    background-color: #195885;
+    color: #ffffff;
+}
